@@ -1,4 +1,4 @@
-SSub Stock_Market()
+Sub Stock_Market()
     
 Application.ScreenUpdating = False
     
