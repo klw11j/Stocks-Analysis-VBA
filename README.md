@@ -16,15 +16,7 @@ Inside the folder that you just created, add any VBA files. These will be the ma
 
 Push the above changes to GitHub or GitLab.
 
-Files
 
-Test Data - Use this while developing your scripts.
-
-Stock Data - Run your scripts on this data to generate the final homework report.
-
-Stock market analyst
-
-stock Market
 
 Instructions
 
@@ -44,6 +36,9 @@ The result should look as follows.
 
 moderate_solution
 
+
+
+
 CHALLENGES
 
 Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
@@ -56,16 +51,4 @@ Use the sheet alphabetical_testing.xlsx while developing your code. This data se
 
 Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
-Submission
 
-To submit please upload the following to Github:
-
-A screen shot for each year of your results on the Multi Year Stock Data.
-
-VBA Scripts as separate files.
-
-After everything has been saved, create a sharable link and submit that to https://bootcampspot-v2.com/.
-
-Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
