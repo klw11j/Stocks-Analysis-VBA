@@ -1,11 +1,11 @@
-## Stocks Analysis using VBA
+# Stocks Analysis using VBA
 
-# Background
+## Background
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
 
-# Instructions
+## Instructions
 
 Create a script that will loop through all the stocks for one year and output the following information.
 
@@ -25,7 +25,7 @@ moderate_solution
 
 
 
-# CHALLENGES
+## CHALLENGES
 
 Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 hard_solution
